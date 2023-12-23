@@ -22,8 +22,8 @@ This is the fastest I've finished one of these. Only took about 20-30 minutes. G
 
 ### Links
 
-- Solution URL: [https://github.com/TGPJonathon/frontend-mentor-result](https://github.com/TGPJonathon/frontend-mentor-result)
-- Live Site URL: [https://tgpjonathon.github.io/frontend-mentor-result/](https://tgpjonathon.github.io/frontend-mentor-result/)
+- Solution URL: [https://github.com/TGPJonathon/frontend-mentor-result](https://github.com/TGPJonathon/frontend-mentor-blog-preview)
+- Live Site URL: [https://tgpjonathon.github.io/frontend-mentor-result/](https://tgpjonathon.github.io/frontend-mentor-blog-preview/)
 
 ## My process
 
